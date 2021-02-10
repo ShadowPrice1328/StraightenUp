@@ -55,6 +55,7 @@ namespace StraightenUp
         //icon in tray -----------------------------------------------------------------------
 
         //change button text, turn on|off timer
+        
         private void button1_Click(object sender, EventArgs e)
         {
             timer1.Enabled = !timer1.Enabled;
@@ -74,6 +75,7 @@ namespace StraightenUp
         }
 
         //text that will be spoken
+        
         static void Voice()
         {
             SpeechSynthesizer _SS = new SpeechSynthesizer();
