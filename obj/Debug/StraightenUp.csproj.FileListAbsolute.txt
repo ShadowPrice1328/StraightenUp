@@ -1,0 +1,10 @@
+D:\repos\StraightenUp\bin\Debug\StraightenUp.exe.config
+D:\repos\StraightenUp\bin\Debug\StraightenUp.exe
+D:\repos\StraightenUp\bin\Debug\StraightenUp.pdb
+D:\repos\StraightenUp\obj\Debug\StraightenUp.csprojAssemblyReference.cache
+D:\repos\StraightenUp\obj\Debug\StraightenUp.Form1.resources
+D:\repos\StraightenUp\obj\Debug\StraightenUp.Properties.Resources.resources
+D:\repos\StraightenUp\obj\Debug\StraightenUp.csproj.GenerateResource.cache
+D:\repos\StraightenUp\obj\Debug\StraightenUp.csproj.CoreCompileInputs.cache
+D:\repos\StraightenUp\obj\Debug\StraightenUp.exe
+D:\repos\StraightenUp\obj\Debug\StraightenUp.pdb
