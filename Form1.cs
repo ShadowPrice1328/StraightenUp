@@ -19,6 +19,7 @@ namespace StraightenUp
         }
 
         //icon in tray -----------------------------------------------------------------------
+        
         private void Form1_Load(object sender, EventArgs e)
         {
             notifyIcon1.BalloonTipText  = "Application minimized";
