@@ -80,7 +80,7 @@ namespace StraightenUp
         static void Voice()
         {
             SpeechSynthesizer _SS = new SpeechSynthesizer();
-            _SS.Speak("Держи спину ровно");
+            _SS.Speak("Тримай спину рівно!");
         }
 
         private void timer1_Tick(object sender, EventArgs e)
